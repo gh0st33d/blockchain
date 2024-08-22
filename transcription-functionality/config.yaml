@@ -1,0 +1,8 @@
+directories:
+  path:  'E:\blockchain\local_transcription-main\video'
+  path1: 'E:\blockchain\local_transcription-main\audio'
+  path2: 'E:\blockchain\local_transcription-main\transcriptions'
+
+settings:
+  batch_size: 1
+  cooling_time: 10  # in seconds
